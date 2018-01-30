@@ -22,4 +22,6 @@ hist(epc1$Global_active_power,
      main = "Global Active Power", 
      xlab = "Global Active Power (kilowatts)"
 )
+title(main = "Global Active Power")
+
 dev.off()
